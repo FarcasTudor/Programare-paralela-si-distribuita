@@ -1,0 +1,5 @@
+﻿  inClass3.cpp
+D:\ANUL_3\PPD\Sapt6-inClass\inClass3\inClass3\inClass3.cpp(18,16): warning C4101: 'status': unreferenced local variable
+D:\ANUL_3\PPD\Sapt6-inClass\inClass3\inClass3\inClass3.cpp(17,16): warning C4101: 'end': unreferenced local variable
+D:\ANUL_3\PPD\Sapt6-inClass\inClass3\inClass3\inClass3.cpp(17,9): warning C4101: 'start': unreferenced local variable
+  inClass3.vcxproj -> D:\ANUL_3\PPD\Sapt6-inClass\inClass3\x64\Debug\inClass3.exe

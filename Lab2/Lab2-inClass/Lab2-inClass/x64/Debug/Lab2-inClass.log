@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\Download_D\C++_threads\C++_threads\Main.cpp(41,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Download_D\C++_threads\C++_threads\Main.cpp(63,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab2-inClass.vcxproj -> D:\ANUL 3\PPD\Lab2\Lab2-inClass\x64\Debug\Lab2-inClass.exe
